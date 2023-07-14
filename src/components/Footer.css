@@ -1,0 +1,12 @@
+footer {
+  max-width: 100%;
+  background-color: rgba(128, 128, 128, 0.466);
+  height: 50px;
+}
+
+footer ul {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 59px;
+}

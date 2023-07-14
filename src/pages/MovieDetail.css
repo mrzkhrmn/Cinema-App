@@ -1,0 +1,46 @@
+.movie--detail-section {
+  display: flex;
+  padding: 20px 0;
+  margin: 0 auto;
+  justify-content: center;
+  gap: 50px;
+}
+
+.movie-img {
+  border-radius: 10px;
+  width: 350px;
+}
+
+.movie-title {
+  margin-bottom: 12px;
+}
+
+.movie-description {
+  max-width: 720px;
+  color: black;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.movie-genres {
+  margin-top: 20px;
+  display: flex;
+  gap: 20px;
+}
+
+.genre {
+  border: 1px solid rgba(128, 128, 128, 0.507);
+  padding: 5px 10px;
+}
+
+.votes {
+  margin-top: 20px;
+}
+
+.votes p {
+  margin-bottom: 10px;
+}
+
+.details p {
+  margin-bottom: 10px;
+}
